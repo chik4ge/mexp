@@ -1,4 +1,4 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
 title: MineExporteR
 description: ワールドをobj形式で出力するmodです
 show_downloads: false

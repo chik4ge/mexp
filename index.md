@@ -36,4 +36,5 @@ Blenderの場合は[MCPrep](https://theduckcow.com/dev/blender/mcprep/)という
 ・タイルエンティティが出力されない  
 ・流体が出力されない  
 ・一部のctmメソッドが正常に動作しない  
+・草ブロックの側面が正常に表示されない
 ・Chisel mod等に使用されているCTM(optifineとは別)には非対応です

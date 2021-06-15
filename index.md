@@ -1,3 +1,4 @@
+![](thumbnail.png)  
 MineExporteRは建築をBlender等外部レンダリングソフトに出力するためのMinecraft 1.12.2用のmodです。
 バニラ以外の追加ブロックやctmにも対応しているのが特徴です。
 

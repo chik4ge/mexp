@@ -40,3 +40,7 @@ MineExporteRは建築をBlender等外部レンダリングソフトに出力す�
 - タイルエンティティが出力されない  
 - 一部のctmメソッドが出力されない  
 - Chisel mod等に使用されているCTM(optifineとは別)には非対応です
+
+## Discord
+公式のDiscordサーバーです。バグ報告や質問に使用してください。
+<iframe src="https://ptb.discord.com/widget?id=968081252857028628&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>

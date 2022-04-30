@@ -38,3 +38,7 @@ Click Assets -> MineExporteR-(latest version).jar to Download.
 ・Tile Entities will not be output.  
 ・Some CTM methods will not be output.  
 ・The CTM (different from optifine's) used in Chisel mod, etc. is not supported.
+
+## Discord
+If you have any questions or share your creations, you can join the Discord server: 
+<iframe src="https://ptb.discord.com/widget?id=968081252857028628&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
